@@ -13,9 +13,9 @@ namespace CPPEffectsPack
         public const string MOD_GUID = "com.starfluxgames.cppeffectpack";
         public const string MOD_NAME = "CPP Effect Pack";
         public const string MOD_VERSION = "0.1.0";
-        public const string MOD_BETA_VERSION = "6";
+        public const string MOD_BETA_VERSION = "7";
         public const string MOD_AUTHOR = "StarFluxGames";
-        public const string MOD_GAMEVERSION = ">=1.1.7";
+        public const string MOD_GAMEVERSION = ">=1.1.8";
 
         public static TaxDish TaxDish;
 
@@ -34,7 +34,7 @@ namespace CPPEffectsPack
         {
             TaxDish = AddGameDataObject<TaxDish>();
             Loader.RegisterEffect<EAdjustMoney>();
-            Loader.RegisterEffect<ECookingSpeed>();
+            // Loader.RegisterEffect<ECookingSpeed>();
             Loader.RegisterEffect<EExtraCustomers>();
             Loader.RegisterEffect<EFasterPlayers>();
             Loader.RegisterEffect<EGrabberSpeed>();
