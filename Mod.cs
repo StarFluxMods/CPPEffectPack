@@ -13,7 +13,7 @@ namespace CPPEffectsPack
         public const string MOD_GUID = "com.starfluxgames.cppeffectpack";
         public const string MOD_NAME = "CPP Effect Pack";
         public const string MOD_VERSION = "0.1.0";
-        public const string MOD_BETA_VERSION = "7";
+        public const string MOD_BETA_VERSION = "8";
         public const string MOD_AUTHOR = "StarFluxGames";
         public const string MOD_GAMEVERSION = ">=1.1.8";
 
