@@ -22,6 +22,6 @@
 	</ItemGroup>
   
 	<ItemGroup>
-		<PackageReference Include="Yariazen.PlateUp.ModBuildUtilities" Version="1.10.22" />
+		<PackageReference Include="Yariazen.PlateUp.ModBuildUtilities" Version="1.11.5" />
 	</ItemGroup>
 </Project>
